@@ -1,0 +1,41 @@
+---
+title:  |  
+        | FIE401 - Second assignment 
+        | Is momentum priced in the Norwegian stock market?
+author: 'Group 08'
+date: '`r Sys.Date()`'
+output: 
+  pdf_document:
+    fig_caption: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Abstract
+
+
+```{r, results='asis', message = FALSE}
+# SETUP ------------------------------------------------------------------------
+setwd('C:/Users/steef/Documents/NHH/FIE401 Financial Econometrics/Fin-Econ-Assignment-2')
+load('CAR_M&A.RData')
+
+# Libraries
+library(ggplot2)
+library(RColorBrewer)
+library(tidyverse)
+library(stargazer)
+library(corrplot)
+library(gridExtra) # for combining graphs
+library(lubridate) # for ymd function 
+library(knitr)
+
+mytheme <- 
+  theme_minimal() +
+  theme(panel.grid.major = element_blank(), 
+        panel.grid.minor = element_blank())
+
+# Extract code from Rmd
+# knitr::purl(input = 'Assignment2_group_08.Rmd', output = 'Assignment2_group_08.R')
+```
