@@ -9,6 +9,7 @@ rm(list=ls())
 library(tidyverse)
 library(DescTools) # winsorizing 
 library(lubridate) # for ymd function
+library(ggplot2)
 
 
 
@@ -67,7 +68,6 @@ data <- as.data.frame(data)
 
 beta <- c()
 avg_return <- c()
-
 
 for(i in 1:10){
 
