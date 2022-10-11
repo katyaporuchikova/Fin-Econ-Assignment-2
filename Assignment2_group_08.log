@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.3)  11 OCT 2022 17:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.3)  11 OCT 2022 18:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -473,59 +473,68 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 82.
 (c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+<Assignment2_group_08_files/figure-latex/data-preparation-1.pdf, id=12, 469.755pt x 325.215pt>
+File: Assignment2_group_08_files/figure-latex/data-preparation-1.pdf Graphic file (type pdf)
+<use Assignment2_group_08_files/figure-latex/data-preparation-1.pdf>
+Package pdftex.def Info: Assignment2_group_08_files/figure-latex/data-preparation-1.pdf  used on input line 86.
+(pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 88.
+(c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 92.
+(Font)              <10> on input line 98.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 92.
+(Font)              <7> on input line 98.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 92.
-<Assignment2_group_08_files/figure-latex/exploratory-analysis-1.pdf, id=12, 469.755pt x 325.215pt>
+(Font)              <5> on input line 98.
+<Assignment2_group_08_files/figure-latex/exploratory-analysis-1.pdf, id=13, 469.755pt x 325.215pt>
 File: Assignment2_group_08_files/figure-latex/exploratory-analysis-1.pdf Graphic file (type pdf)
 <use Assignment2_group_08_files/figure-latex/exploratory-analysis-1.pdf>
-Package pdftex.def Info: Assignment2_group_08_files/figure-latex/exploratory-analysis-1.pdf  used on input line 111.
+Package pdftex.def Info: Assignment2_group_08_files/figure-latex/exploratory-analysis-1.pdf  used on input line 117.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 [1
 
-{c:/Users/steef/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<Assignment2_group_08_files/figure-latex/exploratory-analysis-2.pdf, id=26, 469.755pt x 325.215pt>
+{c:/Users/steef/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Assignment2_group_08_files/figure-latex/data-preparation-1.pdf>]
+<Assignment2_group_08_files/figure-latex/exploratory-analysis-2.pdf, id=32, 469.755pt x 325.215pt>
 File: Assignment2_group_08_files/figure-latex/exploratory-analysis-2.pdf Graphic file (type pdf)
 <use Assignment2_group_08_files/figure-latex/exploratory-analysis-2.pdf>
-Package pdftex.def Info: Assignment2_group_08_files/figure-latex/exploratory-analysis-2.pdf  used on input line 135.
+Package pdftex.def Info: Assignment2_group_08_files/figure-latex/exploratory-analysis-2.pdf  used on input line 141.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 [2 <./Assignment2_group_08_files/figure-latex/exploratory-analysis-1.pdf>]
-<Assignment2_group_08_files/figure-latex/size-momentum-regressions-1.pdf, id=40, 469.755pt x 325.215pt>
+<Assignment2_group_08_files/figure-latex/size-momentum-regressions-1.pdf, id=47, 469.755pt x 325.215pt>
 File: Assignment2_group_08_files/figure-latex/size-momentum-regressions-1.pdf Graphic file (type pdf)
 <use Assignment2_group_08_files/figure-latex/size-momentum-regressions-1.pdf>
-Package pdftex.def Info: Assignment2_group_08_files/figure-latex/size-momentum-regressions-1.pdf  used on input line 153.
+Package pdftex.def Info: Assignment2_group_08_files/figure-latex/size-momentum-regressions-1.pdf  used on input line 159.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 
-Overfull \hbox (2.5669pt too wide) in paragraph at lines 173--174
+Overfull \hbox (2.5669pt too wide) in paragraph at lines 179--180
  []\T1/lmr/m/n/10 parameter
  []
 
 
-Overfull \hbox (2.5669pt too wide) in paragraph at lines 193--194
+Overfull \hbox (2.5669pt too wide) in paragraph at lines 199--200
  []\T1/lmr/m/n/10 parameter
  []
 
 
-Overfull \hbox (0.8448pt too wide) in paragraph at lines 205--205
+Overfull \hbox (0.8448pt too wide) in paragraph at lines 211--211
  []|\T1/lmr/m/n/10 0.9738244|
  []
 
 [3 <./Assignment2_group_08_files/figure-latex/exploratory-analysis-2.pdf>]
-<Assignment2_group_08_files/figure-latex/bm-momentum-regressions-1.pdf, id=54, 469.755pt x 325.215pt>
+<Assignment2_group_08_files/figure-latex/bm-momentum-regressions-1.pdf, id=62, 469.755pt x 325.215pt>
 File: Assignment2_group_08_files/figure-latex/bm-momentum-regressions-1.pdf Graphic file (type pdf)
 <use Assignment2_group_08_files/figure-latex/bm-momentum-regressions-1.pdf>
-Package pdftex.def Info: Assignment2_group_08_files/figure-latex/bm-momentum-regressions-1.pdf  used on input line 210.
+Package pdftex.def Info: Assignment2_group_08_files/figure-latex/bm-momentum-regressions-1.pdf  used on input line 216.
 (pdftex.def)             Requested size: 469.75386pt x 325.2142pt.
 
-Overfull \hbox (2.10777pt too wide) in paragraph at lines 230--231
+Overfull \hbox (2.10777pt too wide) in paragraph at lines 236--237
  []\T1/lmr/m/n/10 parameter
  []
 
 
-Overfull \hbox (2.10777pt too wide) in paragraph at lines 250--251
+Overfull \hbox (2.10777pt too wide) in paragraph at lines 256--257
  []\T1/lmr/m/n/10 parameter
  []
 
@@ -537,18 +546,18 @@ Package rerunfilecheck Info: File `Assignment2_group_08.out' has not changed.
 (rerunfilecheck)             Checksum: 04B1E6974F7F1CEEED3BB7B1C909FBE1;231.
  ) 
 Here is how much of TeX's memory you used:
- 11196 strings out of 477031
- 177284 string characters out of 5826633
- 527267 words of memory out of 5000000
- 32144 multiletter control sequences out of 15000+600000
- 508551 words of font info for 64 fonts, out of 8000000 for 9000
+ 11246 strings out of 477031
+ 178447 string characters out of 5826633
+ 526267 words of memory out of 5000000
+ 32189 multiletter control sequences out of 15000+600000
+ 508870 words of font info for 65 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,9n,77p,383b,531s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Assignment2_group_08.pdf (5 pages, 146186 bytes).
+ 72i,9n,77p,383b,535s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/Users/steef/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on Assignment2_group_08.pdf (5 pages, 175877 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 89 compressed objects within 1 object stream
+ 127 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
  15 named destinations out of 1000 (max. 500000)
- 37 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 42 words of extra memory for PDF output out of 10000 (max. 10000000)
 

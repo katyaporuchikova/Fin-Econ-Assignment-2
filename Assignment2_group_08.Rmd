@@ -48,7 +48,7 @@ mytheme <-
 #             output = 'Assignment2_group_08.R')
 ```
 
-```{r data-preparation}
+```{r data-preparation, message = FALSE}
 # Change date to a date format
 transform_to_date <- function(dataset) {
   dataset %>%
@@ -56,6 +56,13 @@ transform_to_date <- function(dataset) {
              as.character() %>%
              as.Date(format = '%Y%m%d')) -> dataset
 }
+
+portfolio_momentum %>%
+  drop_na() %>%
+  cor() %>%
+  corrplot(col = COL1('YlOrRd'), method = 'number', tl.col = 'black',
+           mar=c(0,0,3,0))
+mtext('Figure 1: Factor correlation matrix')
 
 # Transform to date format
 portfolio_bm <- transform_to_date(portfolio_bm)
@@ -110,7 +117,7 @@ portfolio_size %>%
   labs(x = 'Portfolio return desity',
        y = NULL,
        title = 
-         'Figure 1: Density plot returns of small and large size portolios') +
+         'Figure 2: Density plot returns of small and large size portolios') +
   scale_fill_manual(values = c('orange', 'grey'),
                     name = 'Portfolio',
                     breaks = c('Small.size.1', 'Large.size.10'),
@@ -143,7 +150,7 @@ portfolio_bm %>%
   mytheme +
   labs(x = 'Portfolio return density',
        y = NULL,
-       title = 'Figure 2: Density plot returns of low and high BM portolios') +
+       title = 'Figure 3: Density plot returns of low and high BM portolios') +
   scale_fill_manual(values = c('orange', 'grey'),
                     name = 'Portfolio',
                     breaks = c('Low.bm.1', 'High.bm.10'),
@@ -184,7 +191,7 @@ bind_rows(betas_size, means_size) %>%
               fill = 'lightgrey', color = 'grey') +
   labs(x = 'Beta',
        y = 'Mean returns',
-       title = 'Figure 3: Size portfolio, momentum betas and returns') +
+       title = 'Figure 4: Size portfolio, momentum betas and returns') +
   mytheme
 
 reg_fmb_size <- data[c(12:21)] %>%
@@ -230,7 +237,7 @@ bind_rows(betas_BM, means_BM) %>%
               fill = 'lightgrey', color = 'grey') +
   labs(x = 'Beta',
        y = 'Mean returns',
-       title = 'Figure 4: BM portfolios, momentum betas and returns') +
+       title = 'Figure 5: BM portfolios, momentum betas and returns') +
   mytheme
 
 reg_fmb_bm <- data[c(12:21)] %>%
